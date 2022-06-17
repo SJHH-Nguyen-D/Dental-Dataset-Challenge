@@ -17,4 +17,5 @@ You can use any tool or program, however please keep in mind that we generally w
 
 EDA Notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SJHH-Nguyen-D/Dental-Dataset-Challenge/HEAD?labpath=Untitled.ipynb)
 
-Modelling Notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SJHH-Nguyen-D/Dental-Dataset-Challenge/HEAD?labpath=Untitled.ipynb)
+Modelling Notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SJHH-Nguyen-D/Dental-Dataset-Challenge/HEAD?labpath=modeling.ipynb)
+
